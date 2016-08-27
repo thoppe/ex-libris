@@ -3,8 +3,9 @@ books = 1984 HarryPotter ATaleOfTwoCities
 all:
 	echo $(books)
 
-commit:
+git:
 	git commit -a
+	git push
 
 thumbnail:
 	mkdir -p thumbnails

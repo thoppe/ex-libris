@@ -33,8 +33,8 @@ Diver helmet by Boston-Joe, [Mark V](http://boston-joe.deviantart.com/art/mark-v
   + In the light of the moon a little egg lay on a leaf. The Very Hungry Caterpillar by Eric Carle
   + "The night Max wore his wolf suit and made mischief of one kind and another his mother called him 'WILD THING!' and Max said 'I'LL EAT YOU UP!' so he was sent to bed without eating anything." Where The Wild Things Are, Maurice Sendak
   + "Nancy Drew, an attractive girl of eighteen, was driving home along a country road in her new, dark-blue convertible." Nancy Drew: The Secret of the Old Clock, Carolyn Keene
-
-
+  + "Behind every man now alive stand thirty ghosts, for that is the ratio by which the dead outnumber the living." 2001: A Space Odyssey by Arthur C. Clarke
+  + "No pestilence had ever been so fatal, or so hideous. Blood was its Avatar and its seal --the redness and the horror of blood." THE MASQUE OF THE RED DEATH, by Edgar Allan Poe, 1842
  
 
 

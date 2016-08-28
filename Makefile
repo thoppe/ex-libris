@@ -1,4 +1,5 @@
 all:
+	fab check
 	fab thumbnails
 	@make clean_junk
 

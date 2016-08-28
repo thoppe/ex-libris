@@ -1,4 +1,4 @@
-books = TwentyThousandLeagues TheCallOfCthulhu 1984 HarryPotter ATaleOfTwoCities
+books = TwentyThousandLeagues TheCallOfCthulhu 1984 HarryPotter ATaleOfTwoCities TheSecretGarden
 
 all:
 	echo $(books)

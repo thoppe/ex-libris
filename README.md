@@ -4,8 +4,10 @@ Visual design project to create small posters with the first line of a book.
 ### Examples
   
 ![](thumbnails/1984.png)
+![](thumbnails/TheCallOfCthulhu.png)
 ![](thumbnails/HarryPotter.png)
 ![](thumbnails/ATaleOfTwoCities.png)
+
 
 ### Notes
   

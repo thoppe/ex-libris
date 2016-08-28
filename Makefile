@@ -1,4 +1,4 @@
-books = 1984 HarryPotter ATaleOfTwoCities
+books = TheCallOfCthulhu 1984 HarryPotter ATaleOfTwoCities
 
 all:
 	echo $(books)

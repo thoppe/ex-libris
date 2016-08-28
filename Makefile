@@ -1,21 +1,16 @@
-books = TwentyThousandLeagues TheCallOfCthulhu 1984 HarryPotter ATaleOfTwoCities TheSecretGarden
+SRCS := $(shell find . -name "*.xcf")
+PNGS := $(addprefix thumbnails/,$(addsuffix .png,$(notdir $(basename $(SRCS)))))
 
 all:
-	echo $(books)
+	make -j thumbnails
 
 git:
 	git commit -a
 	git push
 
-thumbnail:
-	mkdir -p thumbnails
+thumbnails: $(PNGS)	
 
-	for x in $(books); do \
-		echo $$x ;\
-		xcf2png --full-image --full-image $$x.xcf > $$x.png ;\
-		convert -thumbnail x300 $$x.png thumbnails/$$x.png ;\
-		rm $$x.png ;\
-	done
-
-
-
+$(PNGS) : $(SRCS)
+	@mkdir -p thumbnails
+	xcf2png --full-image --full-image $< > $@
+	mogrify -thumbnail x300 $@

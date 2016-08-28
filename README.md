@@ -7,6 +7,7 @@ Visual design project to create small posters with the first line of a book.
 ![](thumbnails/TheCallOfCthulhu.png)
 ![](thumbnails/HarryPotter.png)
 ![](thumbnails/ATaleOfTwoCities.png)
+![](thumbnails/TheSecretGarden.png)
 ![](thumbnails/TwentyThousandLeagues.png)
 
 

@@ -14,8 +14,9 @@ Visual design project to create small posters with the first line of a book.
 
 ### Notes
   
-+ Ready to print PDF copies for each design can be found [here](/pdf).
++ Ready to print copies for each design can be found in [PDF](/pdf) or [PNG](/png).
 + Print on 11x17 Carolina Cardstock (CC), set scaling to shrink to print area.
++ Source files (created in GIMP) can be found here [XCF](/source).
 + Additional first lines on [wikiqutoes](https://en.wikiquote.org/wiki/Opening_lines).
 
 ### Attribution

@@ -25,9 +25,8 @@ Fonts from [The League of Moveable Type](https://www.theleagueofmoveabletype.com
   
 Diver helmet by Boston-Joe, [Mark V](http://boston-joe.deviantart.com/art/mark-v-120296499)
 
-### Upcoming slides
+### Potential new covers
 
-    + "Behind every man now alive stand thirty ghosts, for that is the ratio by which the dead outnumber the living." 2001: A Space Odyssey by Arthur C. Clarke
   + There was a boy named Milo who didn't know what to do with himself - not just sometimes, but always. The Phantom Tollbooth
   + In an old house in Paris that was covered with vines lived twelve little girls in two straight lines. Madeline by Ludwig B
   + Where’s Papa going with that ax? said Fern to her mother as they were setting the table for breakfast. Charlotte’s Web

@@ -1,6 +1,7 @@
 all:
 	fab check
 	fab thumbnails
+	fab fullsize
 	@make clean_junk
 
 git:

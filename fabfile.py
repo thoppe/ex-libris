@@ -3,6 +3,9 @@ import os.path
 import glob
 import os
 
+F_XCF = glob.glob('source/*.xcf')
+os.system('mkdir -p thumbnails png pdf')
+
 def _is_newer(f1, f2):
     # Returns True if f1 is newer than f2
     return os.stat(f1).st_mtime > os.stat(f2).st_mtime
@@ -12,7 +15,6 @@ def _get_name(f_in, dir_out, ext1, ext2):
     return f_out.replace('.'+ext1, '.'+ext2)
 
 def thumbnails():
-    F_XCF = glob.glob('*.xcf')
 
     for f_xcf in F_XCF:
         f_png = _get_name(f_xcf, 'thumbnails', 'xcf', 'png')
@@ -24,8 +26,16 @@ def thumbnails():
         local(cmd1.format(f_xcf, f_png))
         local(cmd2.format(f_png))
 
+def fullsize():
+    for f_xcf in F_XCF:
+        f_png = _get_name(f_xcf, 'png', 'xcf', 'png')
+        if os.path.exists(f_png) and _is_newer(f_png, f_xcf):
+            continue
+
+        cmd1 = "xcf2png --full-image --full-image {} > {}"
+        local(cmd1.format(f_xcf, f_png))
+
 def check():
-    F_XCF = glob.glob('*.xcf')
 
     for f_xcf in F_XCF:
         f_pdf = _get_name(f_xcf, 'pdf', 'xcf', 'pdf')

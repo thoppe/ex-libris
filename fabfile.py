@@ -3,24 +3,20 @@ import os.path
 import glob
 import os
 
-def is_newer(f1, f2):
+def _is_newer(f1, f2):
     # Returns True if f1 is newer than f2
     return os.stat(f1).st_mtime > os.stat(f2).st_mtime
 
-def get_thumbnail_name(f_xcf):
-    f_png = os.path.join('thumbnails',os.path.basename(f_xcf))
-    return f_png.replace('.xcf','.png')
-
-def get_PDF_name(f_xcf):
-    f_png = os.path.join('pdf',os.path.basename(f_xcf))
-    return f_png.replace('.xcf','.pdf')
+def _get_name(f_in, dir_out, ext1, ext2):
+    f_out = os.path.join(dir_out,os.path.basename(f_in))
+    return f_out.replace('.'+ext1, '.'+ext2)
 
 def thumbnails():
     F_XCF = glob.glob('*.xcf')
 
     for f_xcf in F_XCF:
-        f_png = get_thumbnail_name(f_xcf)
-        if os.path.exists(f_png) and is_newer(f_png, f_xcf):
+        f_png = _get_name(f_xcf, 'thumbnails', 'xcf', 'png')
+        if os.path.exists(f_png) and _is_newer(f_png, f_xcf):
             continue
 
         cmd1 = "xcf2png --full-image --full-image {} > {}"
@@ -32,8 +28,9 @@ def check():
     F_XCF = glob.glob('*.xcf')
 
     for f_xcf in F_XCF:
-        f_pdf = get_PDF_name(f_xcf)
-        if os.path.exists(f_pdf) and is_newer(f_pdf, f_xcf):
+        f_pdf = _get_name(f_xcf, 'pdf', 'xcf', 'pdf')
+        
+        if os.path.exists(f_pdf) and _is_newer(f_pdf, f_xcf):
             continue
 
         local("gimp {} 2>/dev/null &".format(f_xcf))

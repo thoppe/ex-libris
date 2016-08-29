@@ -4,6 +4,7 @@ all:
 	@make clean_junk
 
 git:
+	git status
 	git commit -a
 	git push
 

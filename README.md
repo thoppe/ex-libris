@@ -34,9 +34,7 @@ Diver helmet by Boston-Joe, [Mark V](http://boston-joe.deviantart.com/art/mark-v
   + In an old house in Paris that was covered with vines lived twelve little girls in two straight lines. Madeline by Ludwig B
   + Where’s Papa going with that ax? said Fern to her mother as they were setting the table for breakfast. Charlotte’s Web
   + In the light of the moon a little egg lay on a leaf. The Very Hungry Caterpillar by Eric Carle
-  + "Nancy Drew, an attractive girl of eighteen, was driving home along a country road in her new, dark-blue convertible." Nancy Drew: The Secret of the Old Clock, Carolyn Keene
-  + "No pestilence had ever been so fatal, or so hideous. Blood was its Avatar and its seal --the redness and the horror of blood." THE MASQUE OF THE RED DEATH, by Edgar Allan Poe, 1842
- 
+  + "Nancy Drew, an attractive girl of eighteen, was driving home along a country road in her new, dark-blue convertible." Nancy Drew: The Secret of the Old Clock, Carolyn Keene 
 
 
 

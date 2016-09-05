@@ -11,6 +11,7 @@ Visual design project to create small posters with the first line of a book.
 ![](thumbnails/TwentyThousandLeagues.png)
 ![](thumbnails/2001ASpaceOdyssey.png)
 ![](thumbnails/WhereTheWildThingsAre.png)
+![](thumbnails/MasqueOfTheRedDeath.png)
 
 ### Notes
   

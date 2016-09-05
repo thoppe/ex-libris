@@ -5,14 +5,14 @@ Visual design project to create small posters with the first line of a book.
   
 ![](thumbnails/1984.png)
 ![](thumbnails/TwentyThousandLeagues.png)
-![](thumbnails/TheHitchHikersGuide.png)
+![](thumbnails/2001ASpaceOdyssey.png)
 ![](thumbnails/ATaleOfTwoCities.png)
 ![](thumbnails/Madeline.png)
 ![](thumbnails/TheSecretGarden.png)
 ![](thumbnails/WhereTheWildThingsAre.png)
 ![](thumbnails/HarryPotter.png)  
-![](thumbnails/2001ASpaceOdyssey.png)
 ![](thumbnails/MasqueOfTheRedDeath.png)
+![](thumbnails/TheHitchHikersGuide.png)
 ![](thumbnails/TheCallOfCthulhu.png)
 
 ### Notes

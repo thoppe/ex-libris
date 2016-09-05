@@ -14,6 +14,7 @@ Visual design project to create small posters with the first line of a book.
 ![](thumbnails/MasqueOfTheRedDeath.png)
 ![](thumbnails/TheHitchHikersGuide.png)
 ![](thumbnails/TheCallOfCthulhu.png)
+![](thumbnails/PhantomTollbooth.png)
 
 ### Notes
   

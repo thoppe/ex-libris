@@ -25,6 +25,12 @@ The baseline posters should have a consistent style and be available the open-so
 + Print on 11x17 Carolina Cardstock (CC), set scaling to shrink to print area.
 + Source files (created in GIMP) can be found here [XCF](/source).
 + Additional first lines on [wikiqutoes](https://en.wikiquote.org/wiki/Opening_lines).
+  
+### License
+  
+[Creative Commons Share-alike](LICENSE). You are free to copy and redistribute the material (in any medium or format) and adapt (remix, transform, and build upon the material for any purpose), even commercially as long as you give credit to this repository or author. Additionally you must ShareAlike: if you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+TLDR; Go nuts, and give props!
 
 ### Attribution
 

@@ -26,7 +26,7 @@ The baseline posters should have a consistent style and designed in the open-sou
 + Source files (created in GIMP) can be found in [XCF](/source).
 + Additional first lines on [wikiqutoes](https://en.wikiquote.org/wiki/Opening_lines).
   
-### License
+### License [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
   
 [Creative Commons Share-alike 4.0](LICENSE). You are free to copy and redistribute the material (in any medium or format) and adapt (remix, transform, and build upon the material for any purpose), even commercially as long as you give credit to this repository or author. Additionally you must ShareAlike: if you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 

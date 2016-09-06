@@ -2,7 +2,7 @@
 _Out of the books to create art._
   
 This is an open project to design and disseminate posters of famous books with the first line.
-The baseline posters should have a consistent style and be available the open-source photo/layout tool GIMP so they can be remixed and shared.
+The baseline posters should have a consistent style and designed in the open-source photo/layout tool [GIMP](https://www.gimp.org/) so they can be remixed and shared.
 
 ### Examples
   
@@ -23,14 +23,14 @@ The baseline posters should have a consistent style and be available the open-so
   
 + Ready to print copies for each design can be found in [PDF](/pdf) or [PNG](/png).
 + Print on 11x17 Carolina Cardstock (CC), set scaling to shrink to print area.
-+ Source files (created in GIMP) can be found here [XCF](/source).
++ Source files (created in GIMP) can be found in [XCF](/source).
 + Additional first lines on [wikiqutoes](https://en.wikiquote.org/wiki/Opening_lines).
   
 ### License
   
-[Creative Commons Share-alike](LICENSE). You are free to copy and redistribute the material (in any medium or format) and adapt (remix, transform, and build upon the material for any purpose), even commercially as long as you give credit to this repository or author. Additionally you must ShareAlike: if you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+[Creative Commons Share-alike 4.0](LICENSE). You are free to copy and redistribute the material (in any medium or format) and adapt (remix, transform, and build upon the material for any purpose), even commercially as long as you give credit to this repository or author. Additionally you must ShareAlike: if you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
-TLDR; Go nuts, and give props!
+TLDR; _Go nuts, and give props!_
 
 ### Attribution
 

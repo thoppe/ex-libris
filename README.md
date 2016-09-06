@@ -2,23 +2,23 @@
 _Out of the books to create art._
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
-[![Covers Created Badge](https://img.shields.io/badge/covers--created-12-blue.svg)](xcf/)
+[![Covers Created Badge](https://img.shields.io/badge/covers--created-12-blue.svg)](source/)
   
 This is an open project to design and disseminate posters of famous books with the first line.
 The baseline posters should have a consistent style and designed in the open-source photo/layout tool [GIMP](https://www.gimp.org/) so they can be remixed and shared.
   
 [![](thumbnails/1984.png)](png/1984.png)
-![](thumbnails/TwentyThousandLeagues.png)
-![](thumbnails/2001ASpaceOdyssey.png)
-![](thumbnails/ATaleOfTwoCities.png)
-![](thumbnails/Madeline.png)
-![](thumbnails/TheSecretGarden.png)
-![](thumbnails/WhereTheWildThingsAre.png)
-![](thumbnails/HarryPotter.png)  
-![](thumbnails/MasqueOfTheRedDeath.png)
-![](thumbnails/TheHitchHikersGuide.png)
-![](thumbnails/TheCallOfCthulhu.png)
-![](thumbnails/PhantomTollbooth.png)
+[![](thumbnails/TwentyThousandLeagues.png)](png/TwentyThousandLeagues.png)
+[![](thumbnails/2001ASpaceOdyssey.png)](png/2001ASpaceOdyssey.png)
+[![](thumbnails/ATaleOfTwoCities.png)](png/ATaleOfTwoCities.png)
+[![](thumbnails/Madeline.png)](png/Madeline.png)
+[![](thumbnails/TheSecretGarden.png)](png/TheSecretGarden.png)
+[![](thumbnails/WhereTheWildThingsAre.png)](png/WhereTheWildThingsAre.png)
+[![](thumbnails/HarryPotter.png)](png/HarryPotter.png)
+[![](thumbnails/MasqueOfTheRedDeath.png)](png/MasqueOfTheRedDeath.png)
+[![](thumbnails/TheHitchHikersGuide.png)](png/TheHitchHikersGuide.png)
+[![](thumbnails/TheCallOfCthulhu.png)](png/TheCallOfCthulhu.png)
+[![](thumbnails/PhantomTollbooth.png)](png/PhantomTollbooth.png)
 
 ### Notes
   

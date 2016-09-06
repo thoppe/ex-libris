@@ -2,6 +2,7 @@
 _Out of the books to create art._
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
+![Covers Created Badge](https://img.shields.io/badge/covers--created-12-blue.svg)
   
 This is an open project to design and disseminate posters of famous books with the first line.
 The baseline posters should have a consistent style and designed in the open-source photo/layout tool [GIMP](https://www.gimp.org/) so they can be remixed and shared.

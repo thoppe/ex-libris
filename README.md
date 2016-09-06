@@ -1,5 +1,8 @@
-# First line book covers
-Visual design project to create small posters with the first line of a book.
+# Ex Libris
+_Out of the books to create art._
+  
+This is an open project to design and disseminate posters of famous books with the first line.
+The baseline posters should have a consistent style and be available the open-source photo/layout tool GIMP so they can be remixed and shared.
 
 ### Examples
   

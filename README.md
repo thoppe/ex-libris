@@ -1,10 +1,10 @@
 # Ex Libris
 _Out of the books to create art._
+
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
   
 This is an open project to design and disseminate posters of famous books with the first line.
 The baseline posters should have a consistent style and designed in the open-source photo/layout tool [GIMP](https://www.gimp.org/) so they can be remixed and shared.
-
-### Examples
   
 ![](thumbnails/1984.png)
 ![](thumbnails/TwentyThousandLeagues.png)
@@ -26,7 +26,7 @@ The baseline posters should have a consistent style and designed in the open-sou
 + Source files (created in GIMP) can be found in [XCF](/source).
 + Additional first lines on [wikiqutoes](https://en.wikiquote.org/wiki/Opening_lines).
   
-### License [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
+### License 
   
 [Creative Commons Share-alike 4.0](LICENSE). You are free to copy and redistribute the material (in any medium or format) and adapt (remix, transform, and build upon the material for any purpose), even commercially as long as you give credit to this repository or author. Additionally you must ShareAlike: if you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 

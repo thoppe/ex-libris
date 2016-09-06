@@ -56,4 +56,16 @@ Madeline colors inspired from [Veerle's blog](http://veerle.duoh.com/inspiration
   + "Nancy Drew, an attractive girl of eighteen, was driving home along a country road in her new, dark-blue convertible." Nancy Drew: The Secret of the Old Clock, Carolyn Keene 
 
 
+### Developer Notes
+
+Use the [`Makefile`](Makefile) to ensure all subfiles have been generated from the XCF source.
+
+Need to use the BFG to reduce the old binaries file size?
+
+    git clone --mirror https://github.com/thoppe/ex-libris
+    java -jar bfg-1.12.13.jar --delete-files '*.{png,pdf,xcf}' ex-libris.git
+    cd ex-libris.git
+    git reflog expire --expire=now --all && git gc --prune=now --aggressive
+    git push
+
 

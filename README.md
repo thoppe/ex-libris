@@ -69,4 +69,7 @@ Need to use the BFG to reduce the old binaries file size?
     git reflog expire --expire=now --all && git gc --prune=now --aggressive
     git push
 
+### Presentations
+
+First presented at [DC Hack && Tell Round 39: Rebellious Disco](https://www.meetup.com/DC-Hack-and-Tell/events/232161101/).
 
